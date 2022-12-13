@@ -13,6 +13,8 @@ main {
 .imag {
   width: 90%;
   border-radius: 15px;
+  border: 5px solid black; 
+  
 }
 
 @media (min-width: 767px) {
